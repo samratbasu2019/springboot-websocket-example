@@ -1,10 +1,11 @@
-package com.techprimers.springbootwebsocketexample.resource;
+package com.org.home.sam.springbootwebsocketexample.resource;
 
-import com.techprimers.springbootwebsocketexample.model.User;
-import com.techprimers.springbootwebsocketexample.model.UserResponse;
 import org.springframework.messaging.handler.annotation.MessageMapping;
 import org.springframework.messaging.handler.annotation.SendTo;
 import org.springframework.stereotype.Controller;
+
+import com.org.home.sam.springbootwebsocketexample.model.User;
+import com.org.home.sam.springbootwebsocketexample.model.UserResponse;
 
 @Controller
 public class UserController {

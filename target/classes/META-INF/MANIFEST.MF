@@ -3,7 +3,7 @@ Built-By: samratbasu
 Build-Jdk: 11.0.5
 Implementation-Title: spring-boot-websocket-example
 Implementation-Version: 0.0.1-SNAPSHOT
-Implementation-Vendor-Id: com.techprimers
+Implementation-Vendor-Id: com.org.home.sam.springbootwebsocketexample
 Implementation-Vendor: Pivotal Software, Inc.
 Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-we
  bsocket-example/
